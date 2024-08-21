@@ -1,0 +1,2 @@
+# MavenSPI
+Currency converter
