@@ -6,7 +6,7 @@
         <artifactId>MavenSPI</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>Interface</artifactId>
+    <artifactId>api</artifactId>
     <name>Archetype - Interface</name>
     <url>http://maven.apache.org</url>
 </project>
