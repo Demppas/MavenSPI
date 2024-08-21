@@ -1,4 +1,4 @@
-module org.example.Provider{
-    requires org.example.Interface;
+module org.example.provider {
+    requires org.example.api;
     uses org.example.currency.CurrencyConverter;
 }

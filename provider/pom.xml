@@ -6,13 +6,13 @@
         <artifactId>MavenSPI</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>Provider</artifactId>
-    <name>Archetype - Provider</name>
+    <artifactId>provider</artifactId>
+    <name>Archetype - provider</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
-            <artifactId>Interface</artifactId>
+            <artifactId>api</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>

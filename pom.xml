@@ -8,9 +8,9 @@
   <name>Archetype - MavenSPI</name>
   <url>https://maven.apache.org</url>
   <modules>
-    <module>Interface</module>
-    <module>Service</module>
-    <module>Provider</module>
+    <module>api</module>
+    <module>service</module>
+    <module>provider</module>
   </modules>
 
   <properties>
